@@ -1,0 +1,45 @@
+{
+  "schema": {
+    "fields": [{
+      "name": "bathrooms",
+      "type": "double"
+    }, {
+      "name": "bedrooms",
+      "type": "double"
+    }, {
+      "name": "security_deposit",
+      "type": "double"
+    }, {
+      "name": "cleaning_fee",
+      "type": "double"
+    }, {
+      "name": "extra_people",
+      "type": "double"
+    }, {
+      "name": "number_of_reviews",
+      "type": "integer"
+    }, {
+      "name": "square_feet",
+      "type": "double"
+    }, {
+      "name": "review_scores_rating",
+      "type": "double"
+    }, {
+      "name": "room_type",
+      "type": "string"
+    }, {
+      "name": "host_is_superhost",
+      "type": "double"
+    }, {
+      "name": "cancellation_policy",
+      "type": "string"
+    }, {
+      "name": "instant_bookable",
+      "type": "double"
+    }, {
+      "name": "state",
+      "type": "string"
+    }]
+  },
+  "rows": [[1.0, 2.0, 100.0, 20.0, 10.0, 8, 400.0, 94.0, "Entire home/apt", 0.0, "moderate", 0.0, "London"]]
+}

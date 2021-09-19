@@ -3,3 +3,9 @@
 .ipython/
 .jupyter/
 .local/
+.bsp/
+.idea/
+.ivy2/
+project/
+target/
+models/
