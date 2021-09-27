@@ -164,3 +164,12 @@ Output ::
   }, 0.0, 0.0, 1.0, 0.0, 3.0, 124.8613962206735]]
 }
 ```
+
+## Lambda
+```
+docker run -p 9000:8080  mleap-demo:latest 
+```
+
+```
+curl -XPOST "http://localhost:9000/2015-03-31/functions/function/invocations" -d '{}'
+```

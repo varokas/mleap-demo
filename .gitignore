@@ -6,6 +6,6 @@
 .bsp/
 .idea/
 .ivy2/
-project/
+project/target/
 target/
 models/
